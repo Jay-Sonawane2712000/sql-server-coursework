@@ -37,8 +37,11 @@ The goal of this project was to create SQL Server tables using T-SQL, define pri
 ├── README.md
 ├── sql/
 │   └── create_tables.sql
-├── docs/
-│   └── creating_tables_report.pdf
 └── screenshots/
-    ├── erd_diagram.png
-    └── ssms_execution.png
+    ├── 01_database_creation_and_script_header.png
+    ├── 02_faculty_and_student_table_creation.png
+    ├── 03_class_table_composite_key.png
+    ├── 04_studentgrade_foreign_keys.png
+    ├── 05_verification_tables_and_foreign_keys.png
+    ├── 06_object_explorer_and_verification_output.png
+    └── 07_erd_diagram.png
