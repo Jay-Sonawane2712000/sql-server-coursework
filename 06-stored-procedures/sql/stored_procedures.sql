@@ -2,8 +2,7 @@ USE AP;
 GO
 
 /* 
-Name: Jay Sanjay Sonawane
-ASU ID: 1233750832
+
 Assignment: Working with Stored Procedures
 Date: 2026-02-15
 */
@@ -46,8 +45,7 @@ GO
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 /* 
-Name: Jay Sanjay Sonawane
-ASU ID: 1233750832
+
 Assignment: Working with Stored Procedures
 Date: 2026-02-15
 */
@@ -75,8 +73,7 @@ USE AP;
 GO
 
 /* 
-Name: Jay Sanjay Sonawane
-ASU ID: 1233750832
+
 Assignment: Working with Stored Procedures
 Date: 2026-02-15
 */
@@ -144,8 +141,7 @@ USE AP;
 GO
 
 /* 
-Name: Jay Sanjay Sonawane
-ASU ID: 1233750832
+
 Assignment: Working with Stored Procedures
 Date: 2026-02-15
 */
