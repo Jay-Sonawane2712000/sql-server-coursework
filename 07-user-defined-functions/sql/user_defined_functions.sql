@@ -3,8 +3,6 @@ GO
 
 /* 
 IFT530 — Working on User Define Function (Chapter 15, Q5–Q7)
-Name: Jay Sanjay Sonawane
-ASU ID: 1233750832
 Assignment: User-Defined Functions (Scalar + Table-Valued)
 */
 
@@ -48,8 +46,6 @@ GO
 
 /* 
 IFT530 — Working on User Define Function (Chapter 15, Q5–Q7)
-Name: Jay Sanjay Sonawane
-ASU ID: 1233750832
 Assignment: User-Defined Functions (Scalar + Table-Valued)
 */
 
@@ -96,8 +92,7 @@ GO
 
 /* 
 IFT530 — Working on User Define Function (Chapter 15, Q5–Q7)
-Name: Jay Sanjay Sonawane
-ASU ID: 1233750832
+
 Assignment: User-Defined Functions (Scalar + Table-Valued)
 */
 
