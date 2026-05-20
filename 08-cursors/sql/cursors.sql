@@ -1,6 +1,4 @@
 /*=============================================
-Name: Jay Sanjay Sonawane
-ASU ID: 1233750832
 Assignment: Cursor Assignment - Problem 1
 Description: Cursor with WHILE loop fetching directly
              to Results tab (no INTO clause)
@@ -31,8 +29,6 @@ DEALLOCATE CustomerShipCursor;
 GO
 
 /*=============================================
-Name: Jay Sanjay Sonawane
-ASU ID: 1233750832
 Assignment: Cursor Assignment - Problem 2
 Description: Cursor with WHILE loop fetching into
              local variables and printing to Messages tab
