@@ -2,8 +2,6 @@ USE MyGuitarShop;
 GO
 
 /*
-Name: Jay Sanjay Sonawane
-ASU ID: 1233750832
 Assignment: Triggers
 Description: Create Products_UPDATE and Products_INSERT triggers
 For Questions: 1 and 2
